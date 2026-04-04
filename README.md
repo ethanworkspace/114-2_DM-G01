@@ -8,9 +8,9 @@
 | 組別 | 第 一 組 |
 | 專題名稱 | （請填入你們的專題名稱） |
 | 組長 | 郭柏辰 / https://github.com/ethanworkspace |
-| 組員 | （吳旭崴 / https://github.com/c113181123） |
-| 組員 | （李柏志 / https://github.com/liangsfgbdfbcfb） |
-| 組員 | （傅瑞賢 / https://github.com/c113187221-eng） |
+| 組員 | 吳旭崴 / https://github.com/c113181123 |
+| 組員 | 李柏志 / https://github.com/liangsfgbdfbcfb |
+| 組員 | 傅瑞賢 / https://github.com/c113187221-eng |
 
 ---
 
