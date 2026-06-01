@@ -3,7 +3,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-latest-orange.svg)](https://scikit-learn.org/)
-[![Data-Driven](https://img.shields.io/badge/Data--Driven-Decision--Making-green.svg)](#)
 
 本專題提案旨在解決現行海港自由貿易港區（Free Trade Zone, FTZ）招商策略過度仰賴專家經驗與主觀市場調查之痛點。我們預計導入 **CRISP-DM** 數據探勘架構，擷取 **iMarine 航港發展資料庫** 的微觀數據，並規劃運用多種機器學習演算法與多模型堆疊集成（Stacking Ensemble）技術，建構出高精準度的出口貿易值量化預測模型，作為未來以數據驅動為基礎之招商預判工具。
 
